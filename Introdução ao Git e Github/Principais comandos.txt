@@ -3,3 +3,4 @@ ls - listar aquivos dentro da pasta
 git status - mostrar se sua "branch" esta atualizada "verde ok" "vemelho ainda nao foi atualizada"
 git add . - adicionar arquivos
 git commit -m "comentário" - adcionar um comentário ao seu repositório
+git origin main - enviar arquivo para seu GitHub
